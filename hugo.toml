@@ -1,0 +1,18 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'My New Hugo Project'
+
+theme = 'hugo-theme-bootstrap'
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+[params]
+  [params.author]
+    name = "Your Name"
+    bio = "Your bio description"
+    company = "Your Company"
+    location = "Your Location"
