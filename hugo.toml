@@ -16,3 +16,6 @@ theme = 'hugo-theme-bootstrap'
     bio = "Your bio description"
     company = "Your Company"
     location = "Your Location"
+
+[build]
+  writeStats = true

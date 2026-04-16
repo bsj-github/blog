@@ -42,3 +42,5 @@ Thumbs.db
 
 # Playwright MCP (if not needed in repo)
 .playwright-mcp/
+package-lock.json
+assets/jsconfig.json
